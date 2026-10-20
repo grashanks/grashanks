@@ -1,113 +1,130 @@
-<!-- Profile README: Pratham Harer. Place this file in a repo named exactly like your username (Pratham1603/Pratham1603). -->
+<!-- ═══════════════════════════════════════════════════════════
+     GitHub Profile README for @grashanks
+     Place this file in a PUBLIC repo named exactly: grashanks
+     (github.com/grashanks/grashanks) → it shows on your profile.
+     Search for "EDIT" to find the parts you should personalise.
+     ═══════════════════════════════════════════════════════════ -->
 
+<!-- ───────────── HEADER BANNER ───────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4d1b,50:5fbf4a,100:e6e1d8&height=200&section=header&text=PRATHAM%20HARER&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20ENGINEER%20%2F%20DATA%20SCIENTIST&descSize=18&descAlignY=65" alt="Pratham Harer banner" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2a,100:00ff88&height=240&section=header&text=grashanks&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Signature%20Profile&descSize=20&descAlignY=58&animation=fadeIn" alt="grashanks banner" />
 
-</div>
-
----
-
-## WHO I AM
-
-Hey, I'm Pratham — a Mumbai-based engineer passionate about building tools that simplify people's lives. I work at the intersection of AI, LLMs, and backend systems, and I write about what I build and learn along the way.
-
-## WHAT I DO
-
-I build software and AI-powered tools that solve real problems — and I can't stop. Obsessed with turning ideas into products and understanding everything from first principles.
-
-## VISION
-
-My goal is to help people and push the world further ahead than it was yesterday. I want to be part of the generation that makes technology genuinely work for humans — not the other way around. Humanity first, technology second.
-
-## BEYOND CODE
-
-Techno & house music, painting, and thinking differently — that's me outside of code.
-
----
-
-## CONNECT WITH ME
-
-<div align="center">
-
-| Linkedin | X (Twitter) | Gmail | Website | Medium | Kaggle |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>](https://www.linkedin.com/in/pratham-harer-143112315) | [<img src="https://cdn.simpleicons.org/x/ffffff" width="48"/>](https://x.com/PROSEED_AI) | [<img src="https://cdn.simpleicons.org/gmail" width="48"/>](mailto:your-email@gmail.com) | [<img src="https://img.icons8.com/fluency/48/website.png" width="48"/>](https://pratham-harer.vercel.app/) | [<img src="https://skillicons.dev/icons?i=medium" width="48"/>](https://medium.com/@prathamharer1603) | [<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48"/>](https://www.kaggle.com/prathamharer) |
-
-</div>
-
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<!-- Replace with your own generated 3D contribution graph (e.g. via the github-profile-3d-contrib action) -->
-<img src="https://raw.githubusercontent.com/Pratham1603/Pratham1603/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
+<a href="https://github.com/grashanks">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+grashanks+%F0%9F%91%8B;Developer+%7C+Open+Source+Enthusiast;Building.+Learning.+Shipping." alt="Typing intro" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham1603&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham1603&layout=donut&theme=github_dark&hide_border=true" height="160" alt="Top languages"/>
+<!-- Status pills (like the reference: Developer / Open Source / Building / Learning / Shipping) -->
+<img src="https://img.shields.io/badge/-Developer-a855f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Open%20Source-a855f7?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Building-22d3ee?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Learning-22d3ee?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-Shipping-22d3ee?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=grashanks&label=Profile%20views&color=00ff88&style=flat-square&labelColor=0d1117" alt="profile views" />
+<a href="https://github.com/grashanks?tab=followers"><img src="https://img.shields.io/github/followers/grashanks?label=Followers&style=flat-square&color=00ff88&labelColor=0d1117" alt="followers" /></a>
+<a href="https://github.com/grashanks?tab=repositories"><img src="https://img.shields.io/github/stars/grashanks?affiliations=OWNER&label=Stars&style=flat-square&color=00ff88&labelColor=0d1117" alt="stars" /></a>
 
 </div>
 
 ---
 
-## SKILL SET
+## 👨‍💻 About Me
+
+```text
+$ whoami
+> grashanks — developer, tinkerer, open-source fan
+
+$ cat now.txt
+> 🔭 Currently working on   : EDIT: your current project
+> 🌱 Currently learning     : EDIT: e.g. Rust, System Design, AI/ML
+> 🤝 Open to collaborate on : EDIT: e.g. open-source tools, web apps
+> ⚡ Fun fact               : EDIT: something about you
+```
+
+---
+
+## 📊 Stats & Activity
 
 <div align="center">
 
-**Web & Languages**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=grashanks&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=grashanks&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub streak" />
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
 
-**Data Science & ML**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=grashanks&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" alt="Contribution graph" width="100%" />
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br/>
 
-**LLMs, Apps & Backend**
-
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**MLOps, Cloud & Tools**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grashanks&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Top languages" />
 
 </div>
 
 ---
 
+## 🛠️ Tech Stack
+
+<!-- EDIT: change the list after ?i= — icons: https://skillicons.dev -->
 <div align="center">
 
-*Code is just the medium — I'm here to build things that push the world a little further ahead.*
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,bash,linux,git&theme=dark" alt="Languages and tools" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,docker,vscode,github&theme=dark" alt="Frameworks and tools" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!-- EDIT: replace repo names with your own best repos -->
+<div align="center">
+
+<a href="https://github.com/grashanks/REPO-ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=grashanks&repo=REPO-ONE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" />
+</a>
+<a href="https://github.com/grashanks/REPO-TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=grashanks&repo=REPO-TWO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" />
+</a>
+<a href="https://github.com/grashanks/REPO-THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=grashanks&repo=REPO-THREE&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" />
+</a>
+
+</div>
+
+---
+
+## 🧰 Open-Source Toolbox
+
+| 🖥️ **Tools I use** | 📘 **What I'm learning** | ⭐ **Favorite repos** | 🔗 **Let's connect** |
+| :--- | :--- | :--- | :--- |
+| CLI, editors & more | Notes & resources | Projects worth checking out | GitHub · Email |
+| EDIT: VS Code, Neovim, Git, Docker | EDIT: topic you're studying | EDIT: link a repo you love | [GitHub](https://github.com/grashanks) |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/grashanks"><img src="https://img.shields.io/badge/GitHub-grashanks-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" /></a>
+<!-- EDIT: uncomment and fill in the ones you use -->
+<!-- <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a> -->
+<!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a> -->
+<!-- <a href="https://instagram.com/YOUR-ID"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff88" /></a> -->
+<!-- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88" /></a> -->
+
+<br/><br/>
+
+**⭐ Polished. Professional. Yours. ⭐**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a3d2a,100:0d1117&height=120&section=footer" alt="footer" />
 
 </div>
